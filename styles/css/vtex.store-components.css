@@ -25,7 +25,7 @@
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
-    color: white;
+    color: gray;
     background-color: blue;
     border: transparent;
 }
