@@ -25,13 +25,9 @@
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
-    color: white;
-    background-color: blue;
+    color: gray;
+    background-color: white;
     border: transparent;
-}
-
-.infoCardCallActionContainer :global(.vtex-button):hover {
-    color: white;
 }
 
 .infoCardContainer--vintage {
