@@ -2,10 +2,14 @@
     font-family: serif;
     font-size: 2.25rem;
     font-weight: normal;
-    color: black;
+    color: gray;
     border: 2px solid black;
     padding: 24px;
+}
+
+.infoCardHeadline{
     font-weight: bold;
+    color: black;
 }
 
 .infoCardContainer {
@@ -24,6 +28,10 @@
     color: white;
     background-color: blue;
     border: transparent;
+}
+
+.infoCardCallActionContainer :global(.vtex-button):hover {
+    color: white;
 }
 
 .infoCardContainer--vintage {
